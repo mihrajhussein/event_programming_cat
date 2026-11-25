@@ -4,7 +4,7 @@ Hands-on activities, guides, and Java projects covering Event-Driven Programming
 
 ---
 
-## Requirements
+## Requirements   
 
 - **Java JDK 11+** (JDK 17 or 21 recommended)
 - **Maven** (needed for JavaFX in Weeks 6–10)
